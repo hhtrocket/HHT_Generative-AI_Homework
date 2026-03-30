@@ -1,1 +1,1 @@
-# hw1-haito
+# HHT_Generative-AI_Homework
