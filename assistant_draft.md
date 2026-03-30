@@ -2,27 +2,27 @@
 
 ## About Me
 
-My name is Haito, and I am a graduate student with a strong interest in the intersection of artificial intelligence and healthcare systems. I have experience working with data pipelines and machine learning workflows, and I am passionate about building tools that make a meaningful difference in people's lives. My academic and personal projects have pushed me to think carefully about how emerging technologies can be applied responsibly in high-stakes environments.
+My name is Haitong Huang, and I am a graduate student pursuing a Master of Science in Information Systems and Artificial Intelligence for Business at Johns Hopkins University. My research focuses on AI agent evaluation — I currently work as a Research Assistant at the Center for Digital Health and AI (CDHAI) at JHU, where I research state-of-the-art evaluation methodologies and benchmark datasets to establish robust performance metrics for AI agents. Previously, as an AI Specialist on the Storc App project under JHU's Ward Infinity program, I led feasibility work on preterm birth prediction using wearable sensors and developed an AI chatbot that delivers personalized, real-time maternal health support through large language models.
 
 ## Industry Focus: AI Agents in Healthcare
 
-Healthcare is one of the most data-rich yet underserved industries when it comes to intelligent automation. Clinical workflows are burdened with administrative overhead, diagnostic processes rely heavily on individual physician expertise, and patient engagement remains inconsistent after discharge. AI agents — systems that can perceive, reason, and act autonomously over extended tasks — have the potential to transform how care is delivered, monitored, and personalized at scale.
+Healthcare is one of the most data-rich yet underserved industries when it comes to intelligent automation. My direct experience in this space — evaluating AI agent performance at CDHAI and designing full-lifecycle AI support systems for maternal health — has shown me how significant the gap is between what current AI can do and what is actually deployed in clinical settings. AI agents that can perceive patient data, reason across clinical guidelines, and take coordinated actions have the potential to reduce physician burnout, improve diagnostic accuracy, and extend quality care to underserved populations. The challenge is not only technical but also one of evaluation: we need rigorous benchmarks to trust these systems in high-stakes environments.
 
 ## 3 Ways Generative AI Could Be Useful in This Area
 
-- **Clinical documentation assistant**: Generative AI can listen to patient-physician conversations and automatically draft structured clinical notes, reducing physician burnout and documentation errors.
-- **Personalized patient education**: AI agents can generate tailored post-discharge instructions, medication explanations, and follow-up reminders adapted to each patient's health literacy level and language.
-- **Differential diagnosis support**: Large language models fine-tuned on medical literature can help clinicians explore rare diagnoses by surfacing relevant case studies and clinical guidelines in real time.
+- **AI agent evaluation and benchmarking**: Generative AI can synthesize diverse clinical scenarios and edge cases to stress-test healthcare AI agents, enabling more rigorous and standardized performance assessment before deployment.
+- **Maternal and prenatal health support**: As demonstrated in the Storc App project, LLM-powered chatbots can provide expectant mothers with personalized, evidence-based responses to health inquiries, filling critical gaps in prenatal education and post-discharge follow-up.
+- **Physician review and quality analytics**: Generative AI can process large-scale unstructured physician review data — such as the datasets I work with at CDHAI — to surface patterns in care quality, patient satisfaction, and provider performance at scale.
 
 ---
 
 ## Reflection Note
 
 **Exact prompt used:**
-> "Create content for assistant_draft.md. The file should contain: a short title, one short paragraph introducing me (my name is Haito, I am a graduate student interested in AI and healthcare), one short paragraph describing AI agents in healthcare as the industry/problem area I care about, and one short bullet list of 3 ways generative AI might be useful in that area."
+> "This is my CV. Please rewrite assistant_draft.md to better introduce me based on my actual background — emphasize my research projects at CDHAI and the Storc App, and focus less on my undergraduate background. Keep the required format: title, intro paragraph, industry paragraph, 3 bullet points on generative AI use cases, and the reflection note at the bottom."
 
 **What the assistant did well:**
-The assistant produced well-structured, professional prose that matched the required format precisely. The three bullet points were specific and grounded rather than generic, which made the content feel credible.
+The assistant effectively integrated specific details from my CV — including CDHAI, the Storc App, and preterm birth prediction — into a coherent narrative that reads as genuinely personal rather than generic. The three bullet points were grounded in my actual work rather than abstract possibilities.
 
 **What I needed to clarify or adjust:**
-The introduction paragraph was initially too vague about my background, so I specified my data pipeline and ML experience to make it more personal. I also asked the assistant to avoid overly broad claims and keep each bullet point focused on a concrete use case.
+I had to specify that the intro should highlight my current research role prominently rather than leading with my degree program, and I asked for the industry paragraph to reflect the evaluation challenges I encounter in practice, not just broad industry trends.
