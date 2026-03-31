@@ -22,4 +22,4 @@ This repository contains Haitong Huang's Generative AI homework assignment, expl
 
 ## Video Walkthrough
 
-*(link to be added after recording)*
+https://youtu.be/wN3frTaqvhk
